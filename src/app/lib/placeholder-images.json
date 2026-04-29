@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "cherry-vanilla-hero",
+      "description": "Cherry Vanilla Soda sequence",
+      "imageUrl": "https://xkbusafxgmexravpxruc.supabase.co/storage/v1/object/public/cheery%20vanila/frame_000_delay-0.041s.webp",
+      "imageHint": "cherry vanilla soda"
+    },
+    {
+      "id": "vanilla-grape-hero",
+      "description": "Vanilla Grape Soda sequence",
+      "imageUrl": "https://xkbusafxgmexravpxruc.supabase.co/storage/v1/object/public/vanila%20grape/frame_000_delay-0.041s.webp",
+      "imageHint": "grape soda"
+    },
+    {
+      "id": "ginger-lemon-hero",
+      "description": "Ginger Lemon Soda sequence",
+      "imageUrl": "https://xkbusafxgmexravpxruc.supabase.co/storage/v1/object/public/ginger%20lemon/frame_000_delay-0.041s.webp",
+      "imageHint": "ginger lemon soda"
+    }
+  ]
+}
